@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "details": "Latte",
+      "price": "300",
+      "quantity": "4",
+      "category": "Latte",
+      "sale": "10",
+      "urlImg": "https://coffee61.ru/wa-data/public/photos/68/03/368/368.970.jpg",
+      "id": 1
+    },
+    {
+      "details": "Cappucino",
+      "price": "400",
+      "quantity": "1",
+      "category": "Cappucinno",
+      "sale": "5",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Latte_art_3.jpg",
+      "id": 2
+    },
+    {
+      "details": "Americano",
+      "price": "200",
+      "quantity": "2",
+      "category": "Americano",
+      "sale": "5",
+      "urlImg": "https://cdn.buttercms.com/AB7ud4YSE6nmOX0iGlgA",
+      "id": 3
+    },
+    {
+      "details": "Espresso",
+      "price": "180",
+      "quantity": "2",
+      "category": "Espresso",
+      "sale": "5",
+      "urlImg": "https://coffeeguycafe.com/wp-content/uploads/2019/01/Espresso-Coffee.jpg",
+      "id": 4
+    },
+    {
+      "details": "Affogato",
+      "price": "200",
+      "quantity": "2",
+      "category": "Affogato",
+      "sale": "5",
+      "urlImg": "https://static01.nyt.com/images/2021/08/15/magazine/affogato/affogato-articleLarge-v2.jpg",
+      "id": 5
+    },
+    {
+      "details": "Raf ",
+      "price": "200",
+      "quantity": "2",
+      "category": "Raf",
+      "sale": "5",
+      "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MnqA2TheCGWb55xgjLKC7iU1IU4ybjsQbw&usqp=CAU",
+      "id": 6
+    },
+    {
+      "details": "cappucino",
+      "price": "200",
+      "quantity": "3",
+      "category": "Cappucino",
+      "sale": "5",
+      "urlImg": "https://www.tomtomcoffee.co.uk/wp-content/uploads/2021/04/Coffee-House-6.jpg",
+      "id": 8
+    }
+  ]
+}
